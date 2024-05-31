@@ -1,0 +1,18 @@
+{% assign honors = site.data.data.honors %} {% if honors %}
+<section class="honors">
+  <h2>{{honors.title}}</h2>
+
+  {% for item in honors.list %}
+  <div class="item">
+    <p>{{item.item}}</p>
+    <span>{{item.time}}</span>
+  </div>
+  {% if item.details %}
+  <ul>
+    {% for item in item.details %}
+    <li>{{item}}</li>
+    {% endfor %}
+  </ul>
+  {% endif%} {% endfor %}
+</section>
+{% endif %}

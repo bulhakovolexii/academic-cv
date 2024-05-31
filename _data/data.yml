@@ -1,0 +1,83 @@
+title:
+  name: Juan Garcia
+  phone: "+(217) 123 - 4567"
+  email: jgarcia@illinois.edu
+
+education:
+  title: Education
+  list:
+    - degree: Doctor of Philosophy in Civil and Environmental Engineering
+      university: University of Illinois at Urbana-Champaign
+      time: Expected Fall 20XX
+      topic: “Visualizing Geotechnical Engineering Principles”
+      advisor: Professor Ted S. Visor
+
+    - degree: Bachelor of Science in Civil Engineering
+      university: Universidad Nacional de San Juan, San Juan, Argentina (UNSJ)
+      time: May 20XX
+
+interests:
+  title: Research interests
+  details: Investigations to improve seismic force-resisting systems through simulations and various visualization techniques.
+
+research-experience:
+  title: Research Experience
+  list:
+    - position: Graduate Research Assistant
+      place: Department of Civil Engineering, University of Illinois
+      time: 20XX - Present
+      details:
+        - Design and execute small-scale testing to validate control algorithms derived to simulate seismic force-resistance.
+        - Contribute to multi-disciplinary project aimed at developing visualizations and simulations to predict seismic force damage to various materials.
+        - Collaborate and coordinate with faculty, staff scientists, and fellow graduate students across departments.
+
+    - position: Undergraduate Consultant
+      place: Departamento de Ingeniería, UNSJ
+      time: 20XX
+      details:
+        - Selected by the General Director of the City Planning Department of San Juan, to participate in the structural analysis and seismic assessment of the Dr. Guillermo Rawson Hospital, one of the largest construction projects to date in the most hazardous seismic area in Argentina.
+        - Collaborated with two other members of a team to carry out a nonlinear static analysis of the structure – primary objective and main focus of the project – in agreement with FEMA 356 Pre-standard for the Seismic Rehabilitation of buildings.
+
+teaching-experience:
+  title: Teaching Experience
+  list:
+    - position: Teaching Assistant, Introduction to Structural Engineering
+      place: College of Engineering, University of Illinois
+      time: Spring 20XX - Present
+      details:
+        - Prepared lectures and class activities focusing on the analysis of determinate and indeterminate structures for 15-25 freshman and sophomore level undergraduates.
+        - Created and graded course assessments to ensure students understood material and stayed on track.
+        - Recognized as List of Teachers Ranked Excellent by Their Students.
+
+    - position: Instructor, Latino/a Culture
+      place: Anthropology Department, University of Illinois
+      time: Spring - Fall 20XX
+      details:
+        - Integrated multimedia approaches and used instructional technology to enhance pedagogical approach.
+        - Explained challenging concepts using planned lessons, assignments and targeted discussions for 75 freshmen and sophomore students.
+
+    - position: Graduate Mentor, Illinois Summer Research Opportunities Program
+      place: The Graduate College, University of Illinois
+      time: Summer 20XX, 20XX
+      details:
+        - Mentored two undergraduate students in data collection and analysis to visualize the properties of various geotechnical materials.
+        - Guided the students in preparation and presentation of research findings.
+
+honors:
+  title: Honors and Awards
+  list:
+    - item: Fulbright Scholarship to pursue a PhD
+      time: 20XX
+      details:
+        - 20 scholarships awarded in Argentina that year
+
+    - item: Flag Honor Guard Member
+      time: 20XX
+      details:
+        - Qualified by graduating with honors and ranking 4<sup>th</sup> among engineering majors at UNSJ
+
+grants:
+  title: Grants
+  list:
+    - item: Granting Agency, “Title of Grant”, $00,000
+      time: 20XX - 20XX

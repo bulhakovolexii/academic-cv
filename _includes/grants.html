@@ -1,0 +1,12 @@
+{% assign grants = site.data.data.grants %} {% if grants %}
+<section class="grants">
+  <h2>{{grants.title}}</h2>
+
+  {% for item in grants.list %}
+  <div class="item">
+    <h3>{{item.item}}</h3>
+    <span>{{item.time}}</span>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
