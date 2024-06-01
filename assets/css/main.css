@@ -1,3 +1,7 @@
+html {
+  font-size: 18px;
+}
+
 body {
   font-family: "Cormorant Garamond", serif;
   color: #181818;
@@ -21,6 +25,7 @@ h2 {
   text-transform: uppercase;
   border-bottom: 2px solid #181818;
   margin-block-end: 2px;
+  font-size: 1.33rem;
 }
 
 h3 {
