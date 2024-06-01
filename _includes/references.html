@@ -10,8 +10,8 @@
   {% endif %} {% if reference.tel or reference.email %}
   <p>
     {% if reference.tel %}
-    <a href="tel:{{reference.tel}}">{{reference.tel}}</a>,&nbsp; {% endif %} {%
-    if reference.email %}
+    <a href="tel:{{reference.tel | remove: "(" | remove: ")" | replace: " ", "-"}}">{{reference.tel}}</a>,&nbsp; {%
+    endif %} {% if reference.email %}
     <a href="mailto:{{reference.email}}">{{reference.email}}</a>
     {% endif %}
   </p>

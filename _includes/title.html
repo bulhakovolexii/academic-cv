@@ -9,7 +9,7 @@
   <div class="name">
     <h1>{{title.name}}</h1>
     <p>
-      <a href="tel:{{title.phone}}">{{title.phone}}</a>
+      <a href="tel:{{title.phone | remove: "(" | remove: ")" | remove: "-" | remove: " "}}">{{title.phone}}</a>
       &nbsp;&bull;&nbsp;
       <a href="mailto:{{title.email}}">{{title.email}}</a>
     </p>
