@@ -36,7 +36,8 @@ p {
   margin-block-end: 2px;
 }
 
-ul, ol {
+ul,
+ol {
   margin-block-start: 2px;
   margin-block-end: 2px;
 }
@@ -62,7 +63,7 @@ button {
 }
 
 button:hover {
-outline: 1px solid #181818;
+  outline: 1px solid #181818;
 }
 
 .wrapper {

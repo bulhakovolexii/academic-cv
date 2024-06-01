@@ -1,14 +1,17 @@
 {% assign title = site.data.data.title %}
 <section class="title">
   {% if title.photo %}
-  <img src="{{ site.baseurl }}/assets/images/{{ title.photo }}" alt="{{title.name}}">
+  <img
+    src="{{ site.baseurl }}/assets/images/{{ title.photo }}"
+    alt="{{title.name}}"
+  />
   {% endif %}
   <div class="name">
-  <h1>{{title.name}}</h1>
-  <p>
-    <a href="tel:{{title.phone}}">{{title.phone}}</a>
-    &nbsp;&bull;&nbsp;
-    <a href="mailto:{{title.email}}">{{title.email}}</a>
-  </p>
-</div>
+    <h1>{{title.name}}</h1>
+    <p>
+      <a href="tel:{{title.phone}}">{{title.phone}}</a>
+      &nbsp;&bull;&nbsp;
+      <a href="mailto:{{title.email}}">{{title.email}}</a>
+    </p>
+  </div>
 </section>

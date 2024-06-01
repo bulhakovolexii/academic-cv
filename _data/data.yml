@@ -12,7 +12,7 @@ education:
       topic: “Visualizing Geotechnical Engineering Principles”
       advisor: Professor Ted S. Visor
     - degree: Bachelor of Science in Civil Engineering
-      university: 'Universidad Nacional de San Juan, San Juan, Argentina (UNSJ)'
+      university: "Universidad Nacional de San Juan, San Juan, Argentina (UNSJ)"
       time: May 20XX
 interests:
   title: Research interests
@@ -23,7 +23,7 @@ research-experience:
   title: Research Experience
   list:
     - position: Graduate Research Assistant
-      place: 'Department of Civil Engineering, University of Illinois'
+      place: "Department of Civil Engineering, University of Illinois"
       time: 20XX - Present
       details:
         - >-
@@ -37,7 +37,7 @@ research-experience:
           Collaborate and coordinate with faculty, staff scientists, and fellow
           graduate students across departments.
     - position: Undergraduate Consultant
-      place: 'Departamento de Ingeniería, UNSJ'
+      place: "Departamento de Ingeniería, UNSJ"
       time: 20XX
       details:
         - >-
@@ -54,8 +54,8 @@ research-experience:
 teaching-experience:
   title: Teaching Experience
   list:
-    - position: 'Teaching Assistant, Introduction to Structural Engineering'
-      place: 'College of Engineering, University of Illinois'
+    - position: "Teaching Assistant, Introduction to Structural Engineering"
+      place: "College of Engineering, University of Illinois"
       time: Spring 20XX - Present
       details:
         - >-
@@ -66,8 +66,8 @@ teaching-experience:
           Created and graded course assessments to ensure students understood
           material and stayed on track.
         - Recognized as List of Teachers Ranked Excellent by Their Students.
-    - position: 'Instructor, Latino/a Culture'
-      place: 'Anthropology Department, University of Illinois'
+    - position: "Instructor, Latino/a Culture"
+      place: "Anthropology Department, University of Illinois"
       time: Spring - Fall 20XX
       details:
         - >-
@@ -76,9 +76,9 @@ teaching-experience:
         - >-
           Explained challenging concepts using planned lessons, assignments and
           targeted discussions for 75 freshmen and sophomore students.
-    - position: 'Graduate Mentor, Illinois Summer Research Opportunities Program'
-      place: 'The Graduate College, University of Illinois'
-      time: 'Summer 20XX, 20XX'
+    - position: "Graduate Mentor, Illinois Summer Research Opportunities Program"
+      place: "The Graduate College, University of Illinois"
+      time: "Summer 20XX, 20XX"
       details:
         - >-
           Mentored two undergraduate students in data collection and analysis to
@@ -102,7 +102,7 @@ honors:
 grants:
   title: Grants
   list:
-    - item: 'Granting Agency, “Title of Grant”, $00,000'
+    - item: "Granting Agency, “Title of Grant”, $00,000"
       time: 20XX - 20XX
 publications:
   title: Publications
@@ -111,17 +111,17 @@ publications:
       details: >
         Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
         Vol. 9, no. 3. P. 265–295.
-      url: 'https://doi.org/10.1007/bf03028610'
+      url: "https://doi.org/10.1007/bf03028610"
     - authors: Garcia J. M. G.
       details: >
         Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
         Vol. 9, no. 3. P. 265–295.
-      url: 'https://doi.org/10.1007/bf03028610'
+      url: "https://doi.org/10.1007/bf03028610"
     - authors: Garcia J. M. G.
       details: >
         Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
         Vol. 9, no. 3. P. 265–295.
-      url: 'https://doi.org/10.1007/bf03028610'
+      url: "https://doi.org/10.1007/bf03028610"
 conferences:
   title: Conference Presentations
   oral:
@@ -131,12 +131,12 @@ conferences:
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: 'https://doi.org/10.1007/bf03028610'
+        url: "https://doi.org/10.1007/bf03028610"
       - authors: Garcia J. M. G.
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: 'https://doi.org/10.1007/bf03028610'
+        url: "https://doi.org/10.1007/bf03028610"
   poster:
     subtitle: Poster Presentations
     list:
@@ -144,17 +144,17 @@ conferences:
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: 'https://doi.org/10.1007/bf03028610'
+        url: "https://doi.org/10.1007/bf03028610"
       - authors: Garcia J. M. G.
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: 'https://doi.org/10.1007/bf03028610'
+        url: "https://doi.org/10.1007/bf03028610"
 professional-experience:
   title: Professional Experience
   list:
     - position: Graduate Research Assistant
-      place: 'Department of Civil Engineering, University of Illinois'
+      place: "Department of Civil Engineering, University of Illinois"
       time: 20XX - Present
       details:
         - >-
@@ -168,7 +168,7 @@ professional-experience:
           Collaborate and coordinate with faculty, staff scientists, and fellow
           graduate students across departments.
     - position: Undergraduate Consultant
-      place: 'Departamento de Ingeniería, UNSJ'
+      place: "Departamento de Ingeniería, UNSJ"
       time: 20XX
       details:
         - >-
@@ -186,7 +186,7 @@ university-service:
   title: University Service
   list:
     - position: Graduate Research Assistant
-      place: 'Department of Civil Engineering, University of Illinois'
+      place: "Department of Civil Engineering, University of Illinois"
       time: 20XX - Present
       details:
         - >-
@@ -200,7 +200,7 @@ university-service:
           Collaborate and coordinate with faculty, staff scientists, and fellow
           graduate students across departments.
     - position: Undergraduate Consultant
-      place: 'Departamento de Ingeniería, UNSJ'
+      place: "Departamento de Ingeniería, UNSJ"
       time: 20XX
       details:
         - >-
@@ -223,7 +223,7 @@ technical-skills:
     - >-
       Computer aided design/engineering: optical imaging, AutoCAD, Patran,
       Abaqus.
-    - 'Other: SPSS, Linux (openSUSE, Ubuntu), Mac OS, Windows OS'
+    - "Other: SPSS, Linux (openSUSE, Ubuntu), Mac OS, Windows OS"
 languages:
   title: Languages
   list:
@@ -234,17 +234,17 @@ languages:
 references:
   title: References
   list:
-    - employer: 'Ted S. Visor, Professor and Graduate Programs Head'
+    - employer: "Ted S. Visor, Professor and Graduate Programs Head"
       department: Department of Civil Engineering
       company: University of Illinois at Urbana-Champaign
       tel: (217) 244 – 2345
       email: email@illinois.edu
-    - employer: 'John D. Faculty, Assistant Professor'
+    - employer: "John D. Faculty, Assistant Professor"
       department: Department of Civil Engineering
       company: University of Illinois at Urbana-Champaign
       tel: (217) 244 – 2345
       email: email@illinois.edu
-    - employer: 'Joseph B. Car, Senior Civil Engineer '
-      company: 'TOSS Ingeniería, La Paz, Peru'
+    - employer: "Joseph B. Car, Senior Civil Engineer "
+      company: "TOSS Ingeniería, La Paz, Peru"
       tel: (217) 244 – 2345
       email: email@illinois.edu

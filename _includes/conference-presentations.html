@@ -12,8 +12,7 @@
     </li>
     {% endfor %}
   </ol>
-  {% endif %}
-  {% if conferences.poster %}
+  {% endif %} {% if conferences.poster %}
   <h3>{{conferences.poster.subtitle}}</h3>
   <ol>
     {% for article in conferences.poster.list %}
