@@ -2,9 +2,15 @@
   @page {
     size: A4;
   }
+
+  html {
+    font-size: 11pt;
+  }
+
   .wrapper {
     box-shadow: none;
   }
+
   button {
     display: none;
   }

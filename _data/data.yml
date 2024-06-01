@@ -1,8 +1,9 @@
 title:
-  photo: photo.jpg
+  photo: photo.jpg # Recommended size 300×300 pixels
   name: Juan Garcia
   phone: +(217) 123 - 4567
   email: jgarcia@illinois.edu
+
 education:
   title: Education
   list:
@@ -11,19 +12,22 @@ education:
       time: Expected Fall 20XX
       topic: “Visualizing Geotechnical Engineering Principles”
       advisor: Professor Ted S. Visor
+
     - degree: Bachelor of Science in Civil Engineering
-      university: "Universidad Nacional de San Juan, San Juan, Argentina (UNSJ)"
+      university: Universidad Nacional de San Juan, San Juan, Argentina (UNSJ)
       time: May 20XX
+
 interests:
   title: Research interests
   details: >-
     Investigations to improve seismic force-resisting systems through
     simulations and various visualization techniques.
+
 research-experience:
   title: Research Experience
   list:
     - position: Graduate Research Assistant
-      place: "Department of Civil Engineering, University of Illinois"
+      place: Department of Civil Engineering, University of Illinois
       time: 20XX - Present
       details:
         - >-
@@ -36,8 +40,9 @@ research-experience:
         - >-
           Collaborate and coordinate with faculty, staff scientists, and fellow
           graduate students across departments.
+
     - position: Undergraduate Consultant
-      place: "Departamento de Ingeniería, UNSJ"
+      place: Departamento de Ingeniería, UNSJ
       time: 20XX
       details:
         - >-
@@ -51,11 +56,12 @@ research-experience:
           static analysis of the structure – primary objective and main focus of
           the project – in agreement with FEMA 356 Pre-standard for the Seismic
           Rehabilitation of buildings.
+
 teaching-experience:
-  title: Teaching Experience
+  title: Teaching and Mentoring Experience
   list:
-    - position: "Teaching Assistant, Introduction to Structural Engineering"
-      place: "College of Engineering, University of Illinois"
+    - position: Teaching Assistant, Introduction to Structural Engineering
+      place: College of Engineering, University of Illinois
       time: Spring 20XX - Present
       details:
         - >-
@@ -65,9 +71,11 @@ teaching-experience:
         - >-
           Created and graded course assessments to ensure students understood
           material and stayed on track.
-        - Recognized as List of Teachers Ranked Excellent by Their Students.
-    - position: "Instructor, Latino/a Culture"
-      place: "Anthropology Department, University of Illinois"
+        - >-
+          Recognized as List of Teachers Ranked Excellent by Their Students.
+
+    - position: Instructor, Latino/a Culture
+      place: Anthropology Department, University of Illinois
       time: Spring - Fall 20XX
       details:
         - >-
@@ -76,9 +84,10 @@ teaching-experience:
         - >-
           Explained challenging concepts using planned lessons, assignments and
           targeted discussions for 75 freshmen and sophomore students.
-    - position: "Graduate Mentor, Illinois Summer Research Opportunities Program"
-      place: "The Graduate College, University of Illinois"
-      time: "Summer 20XX, 20XX"
+
+    - position: Graduate Mentor, Illinois Summer Research Opportunities Program
+      place: The Graduate College, University of Illinois
+      time: Summer 20XX, 20XX
       details:
         - >-
           Mentored two undergraduate students in data collection and analysis to
@@ -86,42 +95,57 @@ teaching-experience:
         - >-
           Guided the students in preparation and presentation of research
           findings.
+
 honors:
   title: Honors and Awards
   list:
     - item: Fulbright Scholarship to pursue a PhD
       time: 20XX
       details:
-        - 20 scholarships awarded in Argentina that year
+        - >-
+          20 scholarships awarded in Argentina that year
+
     - item: Flag Honor Guard Member
       time: 20XX
       details:
         - >-
           Qualified by graduating with honors and ranking 4<sup>th</sup> among
           engineering majors at UNSJ
+
 grants:
   title: Grants
   list:
-    - item: "Granting Agency, “Title of Grant”, $00,000"
+    - item: Granting Agency, “Title of Grant”, $00,000
       time: 20XX - 20XX
+
 publications:
   title: Publications
   list:
+
     - authors: Garcia J. M. G.
       details: >
         Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
         Vol. 9, no. 3. P. 265–295.
-      url: "https://doi.org/10.1007/bf03028610"
+      url: https://doi.org/10.1007/ab01234567
+
     - authors: Garcia J. M. G.
       details: >
         Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
         Vol. 9, no. 3. P. 265–295.
-      url: "https://doi.org/10.1007/bf03028610"
+      url: https://doi.org/10.1007/ab01234567
+
     - authors: Garcia J. M. G.
       details: >
         Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
         Vol. 9, no. 3. P. 265–295.
-      url: "https://doi.org/10.1007/bf03028610"
+      url: https://doi.org/10.1007/ab01234567
+
+    - authors: Garcia J. M. G.
+      details: >
+        Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
+        Vol. 9, no. 3. P. 265–295.
+      url: https://doi.org/10.1007/ab01234567
+
 conferences:
   title: Conference Presentations
   oral:
@@ -131,12 +155,14 @@ conferences:
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: "https://doi.org/10.1007/bf03028610"
+        url: https://doi.org/10.1007/ab01234567
+
       - authors: Garcia J. M. G.
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: "https://doi.org/10.1007/bf03028610"
+        url: https://doi.org/10.1007/ab01234567
+
   poster:
     subtitle: Poster Presentations
     list:
@@ -144,86 +170,65 @@ conferences:
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: "https://doi.org/10.1007/bf03028610"
+        url: https://doi.org/10.1007/ab01234567
+  
       - authors: Garcia J. M. G.
         details: >
           Problema de la seleccion de la cartera. Trabajos de Estadistica. 1958.
           Vol. 9, no. 3. P. 265–295.
-        url: "https://doi.org/10.1007/bf03028610"
+        url: https://doi.org/10.1007/ab01234567
+
 professional-experience:
   title: Professional Experience
   list:
-    - position: Graduate Research Assistant
-      place: "Department of Civil Engineering, University of Illinois"
-      time: 20XX - Present
+    - position: Civil Engineer at consulting firm 
+      place: TOSS Ingeniería, La Paz, Peru 
+      time: 20XX - 20XX 
       details:
         - >-
-          Design and execute small-scale testing to validate control algorithms
-          derived to simulate seismic force-resistance.
+          Engineer in charge of the implementation of seismic validation at La Paz 
+          Central hospital.
         - >-
-          Contribute to multi-disciplinary project aimed at developing
-          visualizations and simulations to predict seismic force damage to
-          various materials.
-        - >-
-          Collaborate and coordinate with faculty, staff scientists, and fellow
-          graduate students across departments.
-    - position: Undergraduate Consultant
-      place: "Departamento de Ingeniería, UNSJ"
-      time: 20XX
-      details:
-        - >-
-          Selected by the General Director of the City Planning Department of
-          San Juan, to participate in the structural analysis and seismic
-          assessment of the Dr. Guillermo Rawson Hospital, one of the largest
-          construction projects to date in the most hazardous seismic area in
-          Argentina.
-        - >-
-          Collaborated with two other members of a team to carry out a nonlinear
-          static analysis of the structure – primary objective and main focus of
-          the project – in agreement with FEMA 356 Pre-standard for the Seismic
-          Rehabilitation of buildings.
+          Developed extensive modeling and visualization algorithms to expedite 
+          validation.
+
 university-service:
   title: University Service
   list:
-    - position: Graduate Research Assistant
-      place: "Department of Civil Engineering, University of Illinois"
-      time: 20XX - Present
+    - position: Facilitator
+      place: College of Engineering, University of Illinois
+      time: July 20XX
       details:
         - >-
-          Design and execute small-scale testing to validate control algorithms
-          derived to simulate seismic force-resistance.
+          Participated in the organization of the Principal’s Scholars Program 20XX 
+          GEAR UP College Bound Summer Program, where a group of minority children from 
+          elementary and middle school visited the college to learn about different paths 
+          in engineering.
         - >-
-          Contribute to multi-disciplinary project aimed at developing
-          visualizations and simulations to predict seismic force damage to
-          various materials.
-        - >-
-          Collaborate and coordinate with faculty, staff scientists, and fellow
-          graduate students across departments.
-    - position: Undergraduate Consultant
-      place: "Departamento de Ingeniería, UNSJ"
-      time: 20XX
+          Prepared a bridge design competition using popsicle sticks and glue, where the
+          children demonstrated their skills and their creativity.
+
+    - position: Student Assistant 
+      place: Office of International Student and Scholar Services (ISSS), University of Illinois
+      time: July 20XX
       details:
         - >-
-          Selected by the General Director of the City Planning Department of
-          San Juan, to participate in the structural analysis and seismic
-          assessment of the Dr. Guillermo Rawson Hospital, one of the largest
-          construction projects to date in the most hazardous seismic area in
-          Argentina.
+          Assisted with check-in procedures for incoming international students.
         - >-
-          Collaborated with two other members of a team to carry out a nonlinear
-          static analysis of the structure – primary objective and main focus of
-          the project – in agreement with FEMA 356 Pre-standard for the Seismic
-          Rehabilitation of buildings.
+          Helped incoming international students with information on procedures and 
+          resources for their successful arrival on campus.
+
 technical-skills:
   title: Technical Skills
   list:
     - >-
-      Programming languages and mathematical packages: Matlab, Mathematica, C, C
-      ++
+      Programming languages and mathematical packages: Matlab, Mathematica, C, C++
     - >-
       Computer aided design/engineering: optical imaging, AutoCAD, Patran,
       Abaqus.
-    - "Other: SPSS, Linux (openSUSE, Ubuntu), Mac OS, Windows OS"
+    - >-
+      Other: SPSS, Linux (openSUSE, Ubuntu), Mac OS, Windows OS
+
 languages:
   title: Languages
   list:
@@ -231,20 +236,23 @@ languages:
       level: Fluent
     - language: English
       level: Proficient
+
 references:
   title: References
   list:
-    - employer: "Ted S. Visor, Professor and Graduate Programs Head"
+    - employer: Ted S. Visor, Professor and Graduate Programs Head
       department: Department of Civil Engineering
       company: University of Illinois at Urbana-Champaign
       tel: (217) 244 – 2345
       email: email@illinois.edu
-    - employer: "John D. Faculty, Assistant Professor"
+
+    - employer: John D. Faculty, Assistant Professor
       department: Department of Civil Engineering
       company: University of Illinois at Urbana-Champaign
       tel: (217) 244 – 2345
       email: email@illinois.edu
-    - employer: "Joseph B. Car, Senior Civil Engineer "
-      company: "TOSS Ingeniería, La Paz, Peru"
+
+    - employer: Joseph B. Car, Senior Civil Engineer 
+      company: TOSS Ingeniería, La Paz, Peru
       tel: (217) 244 – 2345
       email: email@illinois.edu
