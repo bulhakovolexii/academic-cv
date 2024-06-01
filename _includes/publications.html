@@ -1,0 +1,14 @@
+{% assign publications = site.data.data.publications %} {% if publications %}
+<section class="publications">
+  <h2>{{publications.title}}</h2>
+  <ol>
+    {% for article in publications.list %}
+    <li>
+      <strong> {{article.authors}} </strong>
+      {{article.details}}
+      <span>URL: <a href="{{article.url}}">{{article.url}}</a></span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}

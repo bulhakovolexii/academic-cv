@@ -1,0 +1,25 @@
+{% assign references = site.data.data.references %} {% if
+references %}
+<section class="references">
+  <h2>{{references.title}}</h2>
+  {% for reference in references.list %}
+    <h3>{{reference.employer}}</h3>
+    {% if reference.department %}
+    <p>{{reference.department}}</p>
+    {% endif %}
+    {% if reference.company %}
+    <p>{{reference.company}}</p>
+    {% endif %}
+    {% if reference.tel or reference.email %}
+      <p>
+        {% if reference.tel %}
+        <a href="tel:{{reference.tel}}">{{reference.tel}}</a>,&nbsp;
+        {% endif %}
+        {% if reference.email %}
+        <a href="mailto:{{reference.email}}">{{reference.email}}</a>
+        {% endif %}
+      </p>
+    {% endif %}
+  {% endfor %}
+</section>
+{% endif %}

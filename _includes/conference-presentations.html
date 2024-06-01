@@ -1,0 +1,29 @@
+{% assign conferences = site.data.data.conferences %} {% if conferences %}
+<section class="conferences">
+  <h2>{{conferences.title}}</h2>
+  {% if conferences.oral %}
+  <h3>{{conferences.oral.subtitle}}</h3>
+  <ol>
+    {% for article in conferences.oral.list %}
+    <li>
+      <strong> {{article.authors}} </strong>
+      {{article.details}}
+      <span>URL: <a href="{{article.url}}">{{article.url}}</a></span>
+    </li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+  {% if conferences.poster %}
+  <h3>{{conferences.poster.subtitle}}</h3>
+  <ol>
+    {% for article in conferences.poster.list %}
+    <li>
+      <strong> {{article.authors}} </strong>
+      {{article.details}}
+      <span>URL: <a href="{{article.url}}">{{article.url}}</a></span>
+    </li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+</section>
+{% endif %}

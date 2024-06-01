@@ -1,0 +1,11 @@
+@media print {
+  @page {
+    size: A4;
+  } 
+  .wrapper {
+    box-shadow: none
+  }
+  button {
+    display: none;
+  }
+}
