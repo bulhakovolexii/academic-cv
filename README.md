@@ -13,4 +13,4 @@ I took [these](https://grad.illinois.edu/careers/cv) tips as an example and crea
 
  The theme is available as open source under the terms of the [MIT License](https://github.com/bulhakovolexii/academic-cv/blob/main/LICENSE).
 
- I spotted the idea in the project [online-cv](https://github.com/sharu725/online-cv) (published by @sharu725 and under the MIT license).
+ I spotted the idea in the project [online-cv](https://github.com/sharu725/online-cv) (published by [@sharu725](https://github.com/sharu725)).
