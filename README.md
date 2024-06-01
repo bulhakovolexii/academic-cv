@@ -4,7 +4,7 @@ I took [these](https://grad.illinois.edu/careers/cv) tips as an example and crea
 
 ## Installation
  - [Fork](https://github.com/bulhakovolexii/academic-cv/fork) the repository;
- - Go to settings and set `main` branch as Github Pages source;
+ - Go to settings and set `main` branch as Github Pages source; [how-to](https://docs.github.com/ru/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch)
  - Your new site should be ready at `https://<username>.github.io/academic-cv/`;
 
  Change all the details from one place: `_data/data.yml`.
