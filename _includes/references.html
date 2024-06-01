@@ -11,7 +11,7 @@
   <p>
     {% if reference.tel %}
     <a
-      href="tel:{{reference.tel | remove: '(' | remove: ')' | replace: ' ', '-'}}"
+      href="tel:{{reference.phone | remove: '(' | remove: ')' | remove: ' ' | remove: '-'}}"
       >{{reference.tel}}</a
     >,&nbsp; {% endif %} {% if reference.email %}
     <a href="mailto:{{reference.email}}">{{reference.email}}</a>
